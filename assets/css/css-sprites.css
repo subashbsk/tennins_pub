@@ -1,0 +1,42 @@
+.icons-date_icon
+{
+background:url('css-sprite-combined.png') 0px -3px;
+width:29px;height:29px;
+display:inline-block;
+}
+
+.icons-login_icon
+{
+background:url('css-sprite-combined.png') -29px -12px;
+width:20px;height:20px;
+display:inline-block;
+}
+
+.icons-register_icon
+{
+background:url('css-sprite-combined.png') -49px -12px;
+width:18px;height:20px;
+display:inline-block;
+}
+
+.icons-sidebar_menu
+{
+background:url('css-sprite-combined.png') -67px -7px;
+width:40px;height:25px;
+display:inline-block;
+}
+
+.icons-ville_icon
+{
+background:url('css-sprite-combined.png') -107px -0px;
+width:30px;height:32px;
+display:inline-block;
+}
+
+.icons-coach_icon
+{
+background:url('css-sprite-combined.png') -137px -12px;
+width:18px;height:20px;
+display:inline-block;
+}
+
